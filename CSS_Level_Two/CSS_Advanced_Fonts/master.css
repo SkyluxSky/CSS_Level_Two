@@ -1,0 +1,30 @@
+
+/* pages default font size  */
+body {
+  font-size: 20px;
+}
+
+/* How to use an internal computer font ""
+Text align moves text left center or right */
+h1 {
+  font-family: "Righteous", "Arial";
+  text-align: center;
+}
+
+/* How to use an atom IDE font */
+p {
+  font-family: monospace;
+}
+
+/* Font style and weight */
+p {
+  font-style: italic;
+  font-weight: bold;
+}
+
+/* em is a ratio of the default font, use this to size other paragraphs or headers  */
+#two {
+  font-size: 0.8em;
+}
+/* 1em = 16px
+2em = 32px */
